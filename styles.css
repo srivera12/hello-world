@@ -30,3 +30,6 @@ p a:hover {
 p {
   font-style: italic !important;
 }
+.video {
+  width: 100%;
+}
